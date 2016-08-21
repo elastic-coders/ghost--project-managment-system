@@ -1,4 +1,4 @@
-# 👻 GHoST Projct Manager System proposal
+# 👻 GHoST Projct Management System (proposa)
 
 This board is an example of how we could use **GitHub + Harvest + (on) + Slack + Trello** (👻 GHoST) for Agile project management.
 
