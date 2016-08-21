@@ -1,4 +1,4 @@
-# 👻 GHoST Projct Management System (proposa)
+# 👻 GHoST Project Management System (proposal)
 
 This board is an example of how we could use **GitHub + Harvest + (on) + Slack + Trello** (👻 GHoST) for Agile project management.
 
@@ -56,6 +56,8 @@ Slack is used as usual, as a chat for quick communication and whatnot. From that
 ### Trello
 
 Trello is where the core of the project management would happen.
+
+[![Webinar: Agile Workflows In Trello](https://img.youtube.com/vi/EEmJ0MevgWw/0.jpg)](https://www.youtube.com/watch?v=EEmJ0MevgWw)
 
 #### Trello Boards Organization
 
